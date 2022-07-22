@@ -1,0 +1,8 @@
+D:\.net projects\Simple Queue Implementation\Simple Queue Implementation\bin\Debug\Simple Queue Implementation.exe.config
+D:\.net projects\Simple Queue Implementation\Simple Queue Implementation\bin\Debug\Simple Queue Implementation.exe
+D:\.net projects\Simple Queue Implementation\Simple Queue Implementation\bin\Debug\Simple Queue Implementation.pdb
+D:\.net projects\Simple Queue Implementation\Simple Queue Implementation\obj\Debug\Simple Queue Implementation.csproj.AssemblyReference.cache
+D:\.net projects\Simple Queue Implementation\Simple Queue Implementation\obj\Debug\Simple Queue Implementation.csproj.SuggestedBindingRedirects.cache
+D:\.net projects\Simple Queue Implementation\Simple Queue Implementation\obj\Debug\Simple Queue Implementation.csproj.CoreCompileInputs.cache
+D:\.net projects\Simple Queue Implementation\Simple Queue Implementation\obj\Debug\Simple Queue Implementation.exe
+D:\.net projects\Simple Queue Implementation\Simple Queue Implementation\obj\Debug\Simple Queue Implementation.pdb
